@@ -1,0 +1,1 @@
+This repository is created to contain all the project codes to my [blog](https://venkat-rajgopal.github.io/)
