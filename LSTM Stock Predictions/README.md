@@ -14,7 +14,7 @@ We use an LSTM model to forecast the closing prices of S&P. Predictions after 10
 ![](plots/predictions.png)
 
 
-The full notebook is [here](/S&P_LSTM_forecast.ipynb). 
+The full notebook is [here](S&P_LSTM_forecast.ipynb). 
 
 _Note: This is a draft version to check the general working of the LSTM network. A more concrete and complete code will be published soon._
 
