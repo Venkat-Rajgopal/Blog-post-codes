@@ -10,8 +10,8 @@ python3 train_cfar.py --optimizer radam --nepochs 100 --plot radam.png
 ```
 
 ## Results
-<img src="adam.png" alt="adam" width="450"/>
+<img src="adam.png" alt="adam" width="500"/>
 
-<img src="radam.png" alt="radam" width="450"/>
+<img src="radam.png" alt="radam" width="500"/>
 
 
